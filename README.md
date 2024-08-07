@@ -1,6 +1,5 @@
 -I’m @SUPERSUPERSUPERuser
--I want to be a software engineer but the only thing I really know is maths physics and chemistry, so this is a preemptive step I have taken to ensure I do not get flustered when I eventually have to learn all this.
-- I know Java, and nothing about github.
+-I am a human being.
 - 
 
 
